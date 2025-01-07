@@ -1,5 +1,3 @@
-Here’s how you can add the **three-tier-task-compose** project under the **Containerization and Orchestration Projects** section:
-
 ---
 
 # DevOps Projects Portfolio
@@ -23,13 +21,13 @@ This repository showcases all my DevOps-related projects.
 
 ## 🛠️ Configuration Management
 
+- **[Ansible Nginx Setup](https://github.com/ahmedmaged6/ansible-nginx-setup)**  
+  An automation project using Ansible to install and configure Nginx on a Linux server. This playbook customizes the server configuration with Jinja2 templates, applies IP-based access restrictions, and ensures the service is running and accessible through a welcome page.
+
 ## 🐍 Python and Bash Scripts
 
 - **[Automated AWS Resource Cleanup Script](#)**  
   A Bash script to identify and delete unused AWS resources, helping optimize cloud costs.
-
-- **[Data Parsing and Transformation](#)**  
-  A Python script for parsing CSV files and transforming data for ingestion into cloud data storage.
 
 ## ♾️ Complete DevOps Lifecycle Projects
 
